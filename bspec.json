@@ -1,0 +1,64 @@
+{
+    "bspec-version": "0.4",
+    "document-guid": "9b12829b-8b1c-4c12-95f6-503fac961f1f",
+    "metadata": {},
+    "content": [
+        {
+            "id": "2a1b4af5-4c72-44ec-a6f9-6465df5f1ef7",
+            "filename": "0010_trilogy-1_df5f1ef7",
+            "description": "Trilogy 1",
+            "level": 1,
+            "updated": "2024-06-24 11:42:04.013615"
+        },
+        {
+            "id": "d520b21c-3c18-4c20-ab6b-3453f1be65bc",
+            "filename": "0020_episode-1_f1be65bc",
+            "description": "Episode 1",
+            "level": 2,
+            "updated": "2024-06-24 11:42:04.013731"
+        },
+        {
+            "id": "b078ed41-b5fb-4c22-b88a-163414152b64",
+            "filename": "0030_episode-2_14152b64",
+            "description": "Episode 2",
+            "level": 2,
+            "updated": "2024-06-24 11:42:04.013826"
+        },
+        {
+            "id": "1fe46a4a-43d8-4bc7-ba87-a7bf7c5ec151",
+            "filename": "0040_episode-3_7c5ec151",
+            "description": "Episode 3",
+            "level": 2,
+            "updated": "2024-06-24 11:42:04.013959"
+        },
+        {
+            "id": "68326468-221f-4d6c-af03-19332e5bd61d",
+            "filename": "0050_trilogy-2_2e5bd61d",
+            "description": "Trilogy 2",
+            "level": 1,
+            "updated": "2024-06-24 11:42:04.014035"
+        },
+        {
+            "id": "29aeee2a-ffbe-4645-9850-1638e0aeeadd",
+            "filename": "0060_episode-4_e0aeeadd",
+            "description": "Episode 4",
+            "level": 2,
+            "updated": "2024-06-24 11:42:04.014107"
+        },
+        {
+            "id": "a2397e2e-4de9-4c18-8bc8-64c5439531b1",
+            "filename": "0070_episode-5_439531b1",
+            "description": "Episode 5",
+            "level": 2,
+            "updated": "2024-06-24 11:42:04.014175"
+        },
+        {
+            "id": "dc8bac63-dbe9-4d36-9226-4d6d94f56b46",
+            "filename": "0080_episode-6_94f56b46",
+            "description": "Episode 6",
+            "level": 2,
+            "updated": "2024-06-24 11:42:04.014248"
+        }
+    ],
+    "document-name": "9b12829b-8b1c-4c12-95f6-503fac961f1f"
+}
